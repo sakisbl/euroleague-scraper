@@ -10,8 +10,9 @@
 3. pip install -r requirements.txt
 
 ## Usage
+1.
 ```
 python players.py
+```
 
 It returns a dictionary containing all the players that have ever played to Euroleague along with their code
-```
